@@ -4,7 +4,8 @@
 
 |  Branch | Build Status |
 | :------------ |:-------------
-| master      | [![Build Status](https://wso2.org/jenkins/job/carbon-data/badge/icon)](https://wso2.org/jenkins/job/carbon-data) |
+| master      | [![Build Status](https://wso2.org/jenkins/job/carbon-data/badge/icon)](https://wso2.org/jenkins/job/carbon-data) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaheshika%2Fcarbon-data.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaheshika%2Fcarbon-data?ref=badge_shield)
+|
 
 
 ---
@@ -32,3 +33,7 @@ WSO2 Carbon developers can be contacted via the mailing lists:
 
 * Carbon Developers List : dev@wso2.org
 * Carbon Architecture List : architecture@wso2.org
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaheshika%2Fcarbon-data.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaheshika%2Fcarbon-data?ref=badge_large)
